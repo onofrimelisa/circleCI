@@ -1,0 +1,22 @@
+{
+  "name": "testingcircleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onofrimelisa/testingCircleCI.git"
+  },
+  "author": "Melisa Ailén Onofri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onofrimelisa/testingCircleCI/issues"
+  },
+  "homepage": "https://github.com/onofrimelisa/testingCircleCI#readme",
+  "devDependencies": {
+    "jest": "^25.5.1"
+  }
+}
